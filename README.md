@@ -10,7 +10,7 @@ A simple calculator developed using C++ that performs basic arithmetic operation
 - Subtraction
 - Multiplication
 - Division
-
+ 
 ### Task 2: Number Guessing Game
 A C++ application that generates a random number and allows the user to guess it. The program provides hints whether the guessed number is too high or too low until the correct number is guessed.
 
